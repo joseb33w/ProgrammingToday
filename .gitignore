@@ -1,0 +1,22 @@
+# Compiled binaries
+hello
+hello_gtk
+
+# Object files
+*.o
+*.obj
+
+# Build artifacts
+*.exe
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
